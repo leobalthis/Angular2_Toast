@@ -1,0 +1,7 @@
+/node_modules
+src/**/*.js
+src/**/*.map
+typings
+.DS_Store
+npm-debug.log
+README.md
